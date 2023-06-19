@@ -1,0 +1,7 @@
+{
+  "name": "Mirror_Carm",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
